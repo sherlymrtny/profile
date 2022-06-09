@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Sherly Martina Mulyadi 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://pin.it/2bkghVx.png)
 
 I am an Informatics Engineering College Student in Lampung University. I was able to work together in a team, adapt to new environments, work systematically and neatly, communicate well to team members, and learn new things quickly. I am disciplined and responsible at work.  I am data science enthusiast. 
 
